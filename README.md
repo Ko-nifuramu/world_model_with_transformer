@@ -1,9 +1,7 @@
 # world_model_with_transformer
 ## 目的・目標
 
-- world_modelにtransformerを組み込んだモデルを自力で構築する(すでにirisなどの論文で紹介されているが)
-
-- yamlを使ってみる
+- world_modelにtransformerを組み込んだモデルを自力で構築する(とりあえずIRIS作成してみる)
 
 - ファイルの作り方(src, configなど)を学ぶ
 
